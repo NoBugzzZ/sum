@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/NoBugzzZ/sum/issues"
   },
-  "homepage": "https://github.com/NoBugzzZ/sum"
+  "homepage": "https://github.com/NoBugzzZ/sum",
+  "dependencies": {
+    "@nobugzzz/sum": "^0.0.1"
+  }
 }
