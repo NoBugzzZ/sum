@@ -1,0 +1,19 @@
+{
+  "name": "@nobugzzz/sum",
+  "version": "0.0.1",
+  "description": "sum function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@nobugzzz",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NoBugzzZ/sum"
+  },
+  "bugs": {
+    "url": "https://github.com/NoBugzzZ/sum/issues"
+  },
+  "homepage": "https://github.com/NoBugzzZ/sum"
+}
